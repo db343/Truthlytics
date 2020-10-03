@@ -1,2 +1,2 @@
 # Truthlytics
-A new model for journalism in the 21st century
+Reimagining Trust in Journalism in the 21st Century
